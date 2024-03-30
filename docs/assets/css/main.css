@@ -8,6 +8,10 @@ body {
   width: 100%;
 	}
 
+body {
+        background-image: url("Elegant_Background-2.jpg");
+      }
+
 h1, h2, h3, nav, footer {
     text-align: center;
 }
@@ -67,7 +71,7 @@ footer {
 .thumbnail {
     margin: 5px;
     border: 1px solid black;
-    width: 100px;
+    width: 300px;
 }
 
 .img-full {
@@ -75,3 +79,4 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
+
