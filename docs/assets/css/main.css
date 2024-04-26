@@ -1,3 +1,4 @@
+main.css
 
 
 body {
@@ -55,12 +56,12 @@ footer {
 }
 
 .copyright_logo {
-		width: 1pt;
-		margin:.15pt;
+		width: 1vw;
+		margin:.15vw;
 	}
 
 .row {
-    padding: 1pt;
+    padding: 1vw;
 }
 
 
