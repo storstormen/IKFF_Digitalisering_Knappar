@@ -4,11 +4,11 @@ body {
 	padding: 1vw;
 	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
 	line-height: 1.25;
-	font-size: 12pt;
+	font-size: 1vw;
   width: 100%;
 	}
 
-body {
+    body {
         background-image: url("Elegant_Background-2.jpg");
       }
 
@@ -55,12 +55,12 @@ footer {
 }
 
 .copyright_logo {
-		width: 1pt;
-		margin:.15pt;
+		width: 1vw;
+		margin:.15vw;
 	}
 
 .row {
-    padding: 1pt;
+    padding: 1vw;
 }
 
 
@@ -71,7 +71,7 @@ footer {
 .thumbnail {
     margin: 5px;
     border: 1px solid black;
-    width: 300px;
+    width: 100px;
 }
 
 .img-full {
@@ -79,4 +79,3 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
-
