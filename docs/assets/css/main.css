@@ -1,11 +1,10 @@
-main.css
 
 
 body {
 	padding: 1vw;
 	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
 	line-height: 1.25;
-	font-size: 1vw;
+	font-size: 1pt;
   width: 100%;
 	}
 
@@ -56,12 +55,12 @@ footer {
 }
 
 .copyright_logo {
-		width: 1vw;
-		margin:.15vw;
+		width: 1pt;
+		margin:.15pt;
 	}
 
 .row {
-    padding: 1vw;
+    padding: 1pt;
 }
 
 
